@@ -1,0 +1,11 @@
+div{
+    width: 900px;
+    height: auto;
+    width: 800px;;
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left:100px;
+    padding-right: 100px;
+    box-Shadow:5px 5px 25px -5px rgba(0,0,0.5);
+}
